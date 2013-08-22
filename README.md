@@ -15,12 +15,12 @@ Attendees will leave this session with a complete understanding of the framework
 
 The objective is to share our story, knowledge and experience while experimenting with this disruptive technology. Rodco is part of the construction vertical based in Costa Rica, we are early adopter of the Force.com Platform and are innovating our business model to offer our technology to others. By September 2013 we'll be releasing Documentation and Code so other companies can collaborate with our Private App Store. 
 
+
 Who are they:
  Developers that work in a company that uses salesforce 
  Developers from an agency that provides salesforce development/consulting services
  Technically Oriented members of a Development Team
  IT, Managers and Innovation/Technology focused Executives
-
 
 Why are they here, what do they need from you and your speakers
  They want to know what is an App Store
@@ -37,3 +37,15 @@ Think about content you would like to hear/see in a breakout.
 - The parts of Private Enterprise App Store
 
 - Lets build an App Store MVP
+
+Audience Engagement:
+ By posting Session Planning Details on Chatter to pre-engage the Audience by allowing them to influence the Focus of Session and thus validate their interest on Session Specific Contents.
+ Depending on the Time and Date of the Session I plan to do a "Wake Up or Networking 2 minute Exercise"
+ During the presentation and between each section, there will be a two minute break for Q&A and/or Section Review Links, Next Steps, etc
+ I'll let the audience know that I set aside the next two full days after the presentation to exclusively meet, email and chatter about the session contents and related topics.
+ 
+ 
+ 
+
+
+
